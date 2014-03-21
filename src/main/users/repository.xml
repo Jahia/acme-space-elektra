@@ -1,238 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <content xmlns:j="http://www.jahia.org/jahia/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0">
-    <users j:lastPublished="2014-03-19T10:35:19.042+01:00"
+    <users j:lastPublished="2014-03-20T14:50:40.209+01:00"
           j:lastPublishedBy=""
           j:originWS="default"
           j:published="true"
           j:usersFolderSkeleton="WEB-INF/etc/repository/user.xml,WEB-INF/etc/repository/user-*.xml,modules/**/META-INF/user-skeleton.xml,modules/**/META-INF/user-skeleton-*.xml"
-          jcr:created="2014-03-19T10:35:16.229+01:00"
+          jcr:created="2014-03-20T14:50:36.973+01:00"
           jcr:createdBy="system"
-          jcr:lastModified="2014-03-19T10:35:18.877+01:00"
+          jcr:lastModified="2014-03-20T14:50:40.053+01:00"
           jcr:lastModifiedBy=""
           jcr:primaryType="jnt:usersFolder"
-          jcr:uuid="1e6f3291-399b-4e19-a30d-41130e3b13a6"
+          jcr:uuid="486a607f-c331-4cbf-ac8a-1c2da0f2bfe2"
           j:publicationStatus="1">
-        <guest j:accountLocked="false"
-             j:external="false"
-             j:lastPublished="2014-03-19T10:51:46.090+01:00"
-             j:lastPublishedBy="root"
-             j:originWS="default"
-             j:password=""
-             j:published="true"
-             jcr:created="2014-03-19T10:35:16.237+01:00"
-             jcr:createdBy="system"
-             jcr:lastModified="2014-03-19T10:51:46.046+01:00"
-             jcr:lastModifiedBy="root"
-             jcr:mixinTypes="jmix:systemNode"
-             jcr:primaryType="jnt:user"
-             jcr:uuid="dd460237-e48e-4bbb-9e91-5f5fa8c04458"
-             j:publicationStatus="4">
-            <j:addresses jcr:primaryType="jnt:addresses"
-                      jcr:uuid="c9de0c02-44fd-497e-b402-364f98318c32"/>
-            <j:phones jcr:primaryType="jnt:phoneNumbers"
-                   jcr:uuid="1d6126ba-50fb-4f8a-9cd7-915ec9e7f17c"/>
-            <passwordHistory jcr:primaryType="jnt:passwordHistory"
-                          jcr:uuid="d961d3fc-84ff-4e39-8397-f08c93324205">
-                <pwd-2014-03-19-10-35-20 j:password=""
-                                     jcr:created="2014-03-19T10:35:20.063+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="775ad1d2-d192-4294-bc68-7e58294cdfd4"/>
-                <pwd-2014-03-17-11-43-36 j:password=""
-                                     jcr:created="2014-03-17T11:43:36.502+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="c67c3ae1-1388-446f-aca9-687d4b9dcaa2"/>
-                <pwd-2014-03-13-16-03-44 j:password=""
-                                     jcr:created="2014-03-13T16:03:44.662+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="d254a03b-1e2a-4710-93a1-4155bf320f0e"/>
-                <pwd-2014-03-07-11-06-07 j:password=""
-                                     jcr:created="2014-03-07T11:06:07.309+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="2abcb8e5-6ccb-4a25-9301-3b5c58e4e933"/>
-                <pwd-2014-02-27-09-39-53 j:password=""
-                                     jcr:created="2014-02-27T09:39:53.817+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="98619dc1-2ccb-4e9d-8f4f-ee1ea9eb9e12"/>
-                <pwd-2014-02-18-12-57-22 j:password=""
-                                     jcr:created="2014-02-18T12:57:22.105+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="bb297d76-14b2-41a1-b42f-8bf171066ffa"/>
-                <pwd-2014-02-21-12-47-15 j:password=""
-                                     jcr:created="2014-02-21T12:47:15.068+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="280f2ecf-d3e2-48b7-9c91-113b777ea2f8"/>
-            </passwordHistory>
-        </guest>
-        <root j:accountLocked="false"
-            j:external="false"
-            j:lastPublished="2014-03-19T10:51:46.090+01:00"
-            j:lastPublishedBy="root"
-            j:originWS="default"
-            j:password="3Hbp8MAAbo+RngxRXGbbujmC94U="
-            j:published="true"
-            jcr:created="2014-03-19T10:35:16.312+01:00"
-            jcr:createdBy="system"
-            jcr:lastModified="2014-03-19T10:51:46.046+01:00"
-            jcr:lastModifiedBy="root"
-            jcr:mixinTypes="jmix:accessControlled"
-            jcr:primaryType="jnt:user"
-            jcr:uuid="b32d306a-6c74-11de-b3ef-001e4fead50b"
-            preferredLanguage="en"
-            j:publicationStatus="1">
-            <files j:originWS="default"
-                jcr:created="2014-03-19T10:35:16.313+01:00"
-                jcr:createdBy="system"
-                jcr:lastModified="2014-02-18T12:57:19.540+01:00"
-                jcr:lastModifiedBy=""
-                jcr:primaryType="jnt:folder"
-                jcr:uuid="31d85e3c-e710-42da-89b8-1d868c5b0817"
-                j:publicationStatus="4">
-                <private j:originWS="default"
-                     jcr:created="2014-03-19T10:35:16.314+01:00"
-                     jcr:createdBy="system"
-                     jcr:lastModified="2014-02-18T12:57:19.540+01:00"
-                     jcr:lastModifiedBy=""
-                     jcr:mixinTypes="jmix:accessControlled"
-                     jcr:primaryType="jnt:folder"
-                     jcr:uuid="53aed7c3-5972-47c1-b15c-604646b5f2be"
-                     j:publicationStatus="4">
-                    <j:acl j:inherit="false"
-                      jcr:primaryType="jnt:acl"
-                      jcr:uuid="87b6fe09-276b-4ffd-8403-e125386bc1f8">
-                        <GRANT_u_root j:aceType="GRANT"
-                                j:principal="u:root"
-                                j:protected="false"
-                                j:roles="owner"
-                                jcr:primaryType="jnt:ace"
-                                jcr:uuid="6da68612-a5bc-45c1-a105-4d7925d09880"/>
-                    </j:acl>
-                    <imports j:originWS="default"
-                        jcr:created="2014-03-19T10:35:16.317+01:00"
-                        jcr:createdBy="system"
-                        jcr:lastModified="2014-02-18T12:57:19.540+01:00"
-                        jcr:lastModifiedBy=""
-                        jcr:primaryType="jnt:importDropBox"
-                        jcr:uuid="43503411-203a-4f02-90c1-4a9114a83738"
-                        j:publicationStatus="4"/>
-                </private>
-                <profile j:originWS="default"
-                     jcr:created="2014-03-19T10:35:16.318+01:00"
-                     jcr:createdBy="system"
-                     jcr:lastModified="2014-02-18T12:57:19.540+01:00"
-                     jcr:lastModifiedBy=""
-                     jcr:primaryType="jnt:folder"
-                     jcr:uuid="7607edd4-9ca3-409a-bafb-9e32c6146ae1"
-                     j:publicationStatus="4"/>
-            </files>
-            <portlets j:originWS="default"
-                   jcr:created="2014-03-19T10:35:16.319+01:00"
-                   jcr:createdBy="system"
-                   jcr:lastModified="2014-02-18T12:57:19.540+01:00"
-                   jcr:lastModifiedBy=""
-                   jcr:primaryType="jnt:portletFolder"
-                   jcr:uuid="1bb9c207-9f8f-403a-b113-30091006acb8"
-                   j:publicationStatus="4"/>
-            <contents j:originWS="default"
-                   jcr:created="2014-03-19T10:35:16.320+01:00"
-                   jcr:createdBy="system"
-                   jcr:lastModified="2014-02-18T12:57:19.540+01:00"
-                   jcr:lastModifiedBy=""
-                   jcr:primaryType="jnt:contentFolder"
-                   jcr:uuid="c8746567-3dcb-4717-900e-e409c1796867"
-                   j:publicationStatus="4"/>
-            <preferences jcr:primaryType="jnt:preferences"
-                      jcr:uuid="099310c8-3209-4b91-a81b-dc737036c927"/>
-            <j:acl jcr:primaryType="jnt:acl"
-                jcr:uuid="e527bd85-f663-4ddb-8a71-f3207bbe6d63">
-                <GRANT_u_root j:aceType="GRANT"
-                          j:principal="u:root"
-                          j:protected="false"
-                          j:roles="owner"
-                          jcr:primaryType="jnt:ace"
-                          jcr:uuid="52f4bb7d-9e2e-4819-8d39-547860b433d4"/>
-            </j:acl>
-            <j:addresses jcr:primaryType="jnt:addresses"
-                      jcr:uuid="b5fda72d-bcd2-4708-83e5-9086737dfd9c"/>
-            <j:phones jcr:primaryType="jnt:phoneNumbers"
-                   jcr:uuid="134beeba-6d41-4fff-a52c-d54db1197134"/>
-            <passwordHistory jcr:primaryType="jnt:passwordHistory"
-                          jcr:uuid="9636cc72-6a78-49b3-9e08-557ac3b3c39c">
-                <pwd-2014-03-19-10-35-19 j:password="3Hbp8MAAbo+RngxRXGbbujmC94U="
-                                     jcr:created="2014-03-19T10:35:19.955+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="7de1ef56-acb3-4fe7-868b-e545693eb3d1"/>
-                <pwd-2014-03-17-11-43-36 j:password="3Hbp8MAAbo+RngxRXGbbujmC94U="
-                                     jcr:created="2014-03-17T11:43:36.369+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="11f3ef2b-111a-45e2-8308-72f81e8a5984"/>
-                <pwd-2014-03-13-16-03-44 j:password="3Hbp8MAAbo+RngxRXGbbujmC94U="
-                                     jcr:created="2014-03-13T16:03:44.525+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="73037d4a-5281-42db-b0cb-8dbbe69337a5"/>
-                <pwd-2014-03-07-11-06-07 j:password="3Hbp8MAAbo+RngxRXGbbujmC94U="
-                                     jcr:created="2014-03-07T11:06:07.400+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="31bca84f-caa1-43e5-8559-a30eb46d9e3c"/>
-                <pwd-2014-02-27-09-39-53 j:password="3Hbp8MAAbo+RngxRXGbbujmC94U="
-                                     jcr:created="2014-02-27T09:39:53.691+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="6a5fd409-6250-485f-b9ff-a0c883aac82a"/>
-                <pwd-2014-02-18-12-57-21 j:password="3Hbp8MAAbo+RngxRXGbbujmC94U="
-                                     jcr:created="2014-02-18T12:57:21.937+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="2bfb157a-a138-43ab-afcb-dcbb6863f4d8"/>
-                <pwd-2014-02-21-12-47-14 j:password="3Hbp8MAAbo+RngxRXGbbujmC94U="
-                                     jcr:created="2014-02-21T12:47:14.943+01:00"
-                                     jcr:createdBy="system"
-                                     jcr:primaryType="jnt:passwordHistoryEntry"
-                                     jcr:uuid="ec15d853-5309-487f-90f8-58387b66aef0"/>
-            </passwordHistory>
-        </root>
-        <je j:lastPublished="2014-03-19T10:51:43.140+01:00"
+        <je j:lastPublished="2014-03-20T15:21:38.070+01:00"
           j:lastPublishedBy="root"
           j:originWS="default"
           j:published="true"
           jcr:created="2012-01-25T19:38:23.558+01:00"
           jcr:createdBy="system"
-          jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+          jcr:lastModified="2014-03-20T15:21:38.013+01:00"
           jcr:lastModifiedBy="root"
           jcr:primaryType="jnt:usersFolder"
-          jcr:uuid="a12c3519-3062-4e93-9763-fcaa29a62777"
+          jcr:uuid="2e41f80f-3453-409f-8c8e-7f7f1f9e4331"
           j:publicationStatus="1">
-            <ej j:lastPublished="2014-03-19T10:51:43.140+01:00"
+            <ej j:lastPublished="2014-03-20T15:21:38.070+01:00"
              j:lastPublishedBy="root"
              j:originWS="default"
              j:published="true"
              jcr:created="2012-01-25T19:38:23.697+01:00"
              jcr:createdBy="system"
-             jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+             jcr:lastModified="2014-03-20T15:21:38.013+01:00"
              jcr:lastModifiedBy="root"
              jcr:primaryType="jnt:usersFolder"
-             jcr:uuid="b88ebe6c-66a1-4a50-bf8d-74ba3b7e84b9"
+             jcr:uuid="d38d1675-4c64-4da9-ada8-a7a6ac313a0d"
              j:publicationStatus="1">
-                <ba j:lastPublished="2014-03-19T10:51:43.140+01:00"
+                <ba j:lastPublished="2014-03-20T15:21:38.070+01:00"
                 j:lastPublishedBy="root"
                 j:originWS="default"
                 j:published="true"
                 jcr:created="2012-01-25T19:38:23.783+01:00"
                 jcr:createdBy="system"
-                jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+                jcr:lastModified="2014-03-20T15:21:38.013+01:00"
                 jcr:lastModifiedBy="root"
                 jcr:primaryType="jnt:usersFolder"
-                jcr:uuid="75b9c2d9-8d7a-498a-b643-141596f9a98c"
+                jcr:uuid="3d31482f-a821-43f3-9cd9-183d54dd720f"
                 j:publicationStatus="1">
                     <jay emailNotificationsDisabled="true"
                     j:about="&lt;p&gt;&#xA; Lorem Ipsum dolor sit amet,consectetur adipisicing elit, sed doeiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim adminim veniam, quis nostrudexercitation ullamco laboris nisi utaliquip ex ea commodo consequat.Duis aute irure dolor inreprehenderit in coluptate velit essecillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatatnon proident, sunt in culpa quiofficia deserunt mollit anim id estlaborum.&lt;/p&gt;&#xA;"
@@ -243,7 +54,7 @@
                     j:function="Community member"
                     j:gender="male"
                     j:lastName="Hawking"
-                    j:lastPublished="2014-03-19T10:51:46.090+01:00"
+                    j:lastPublished="2014-03-20T15:21:38.772+01:00"
                     j:lastPublishedBy="root"
                     j:organization=""
                     j:originWS="default"
@@ -254,66 +65,28 @@
                     j:title="mister"
                     jcr:created="2012-01-25T19:38:23.864+01:00"
                     jcr:createdBy="system"
-                    jcr:lastModified="2014-03-19T10:51:46.046+01:00"
-                    jcr:lastModifiedBy="root"
+                    jcr:lastModified="2014-03-20T15:21:38.763+01:00"
+                    jcr:lastModifiedBy=""
                     jcr:mixinTypes="jmix:accessControlled"
                     jcr:primaryType="jnt:user"
-                    jcr:uuid="e1de9eaf-094a-4089-a9ba-ddbf5806760a"
+                    jcr:uuid="4118ebba-6837-428e-9d7d-ef02cf2f6dc6"
                     preferredLanguage="en"
                     j:publicationStatus="1">
                         <preferences jcr:primaryType="jnt:preferences"
-                               jcr:uuid="faa2b629-37c7-4264-8121-0888cd41d971"/>
+                               jcr:uuid="f023c50b-3657-4831-ba2c-1cc254b0bc0c"/>
                         <j:acl jcr:primaryType="jnt:acl"
-                         jcr:uuid="e30ce98a-746d-4a03-aec3-cf04cc462278">
+                         jcr:uuid="bbc4cba6-9f98-4d7b-815d-c867911b4bcf">
                             <GRANT_u_jay j:aceType="GRANT"
                                   j:principal="u:jay"
                                   j:protected="false"
                                   j:roles="owner"
                                   jcr:primaryType="jnt:ace"
-                                  jcr:uuid="37f8bcdb-6b70-46e0-b378-32eb49e9a6d1"/>
+                                  jcr:uuid="0ff93e97-1de6-4e9d-a49c-cdc3007892ce"/>
                         </j:acl>
                         <j:addresses jcr:primaryType="jnt:addresses"
-                               jcr:uuid="dcb0d299-6bb7-4eea-a482-4ceb3ad13a91"/>
+                               jcr:uuid="7d88d2af-2c2b-4718-91ea-d8f9cba8d11a"/>
                         <j:phones jcr:primaryType="jnt:phoneNumbers"
-                            jcr:uuid="83302e59-c802-416e-8de2-fbd33b4593d8"/>
-                        <passwordHistory jcr:primaryType="jnt:passwordHistory"
-                                   jcr:uuid="284634d4-a5b1-44df-856a-7a5d6bbade9a">
-                            <pwd-2014-02-18-13-00-12 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-18T13:00:12.703+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="86b52e94-8d63-4338-9be3-57dc7bae4386"/>
-                            <pwd-2014-02-21-13-26-35 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-21T13:26:35.736+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="afe9b0e9-0fc6-43bd-bd3a-164a7c59bd38"/>
-                            <pwd-2014-02-27-09-46-47 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-27T09:46:47.350+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="25266a8d-2747-46c5-81e5-225ed9307385"/>
-                            <pwd-2014-03-07-13-31-15 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-07T13:31:15.026+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="a93b5e3d-3b5d-489b-ba1b-6f8019c3854b"/>
-                            <pwd-2014-03-13-16-10-40 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-13T16:10:40.832+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="756d3b37-69be-4311-9de4-fb08a911971b"/>
-                            <pwd-2014-03-17-12-01-13 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-17T12:01:13.024+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="f656dba3-5182-48c2-8bd0-e98878640719"/>
-                            <pwd-2014-03-19-10-51-44 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-19T10:51:44.010+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="01c05b77-6af2-42e8-b54a-e48716c9301c"/>
-                        </passwordHistory>
+                            jcr:uuid="df8b0d8a-741a-40d9-a346-14a3f147c879"/>
                         <files j:lastPublished="2012-04-17T16:49:10.230+02:00"
                          j:lastPublishedBy="root"
                          j:originWS="default"
@@ -323,7 +96,7 @@
                          jcr:lastModified="2012-01-25T19:38:23.988+01:00"
                          jcr:lastModifiedBy=""
                          jcr:primaryType="jnt:folder"
-                         jcr:uuid="0cbe349e-634f-4fdb-8a82-9fb072f9842e"
+                         jcr:uuid="3f6eba80-fe44-4a6b-9a13-4ba6bd68ce6c"
                          j:publicationStatus="1">
                             <profile j:lastPublished="2012-04-17T16:49:10.230+02:00"
                               j:lastPublishedBy="root"
@@ -334,7 +107,7 @@
                               jcr:lastModified="2012-01-25T19:38:23.988+01:00"
                               jcr:lastModifiedBy=""
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="29fc1327-3a3d-4ee6-aa15-1719e06a627c"
+                              jcr:uuid="3cad06c3-2350-473b-b643-081dc5cdf7e3"
                               j:publicationStatus="1">
                                 <_x0031_8.jpg j:height="111"
                                       j:lastPublished="2012-02-13T09:30:59.231+01:00"
@@ -350,33 +123,33 @@
                                       jcr:lastModifiedBy="jay"
                                       jcr:mixinTypes="jmix:exif jmix:image"
                                       jcr:primaryType="jnt:file"
-                                      jcr:uuid="d9b8a6ea-128b-47d2-a0ba-d219fe507961"
+                                      jcr:uuid="ad099900-cb44-4efd-b90f-390e37e98a0d"
                                       j:publicationStatus="1">
                                     <jcr:content jcr:lastModified="2012-01-25T20:11:19.190+01:00"
                                         jcr:lastModifiedBy="jay"
                                         jcr:mimeType="image/jpeg"
                                         jcr:primaryType="jnt:resource"
-                                        jcr:uuid="f6200293-2c72-47d7-af17-2f539cc6f6a5"/>
+                                        jcr:uuid="3fd30759-4760-4cb1-ba09-6a8aafe4cefa"/>
                                     <thumbnail jcr:lastModified="2012-01-25T20:11:19.270+01:00"
                                       jcr:lastModifiedBy="jay"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="b7436e67-ad01-43e1-b5fd-2b68c6551d04"/>
+                                      jcr:uuid="fe45bcd3-e0dd-4167-b9ca-789a08631f43"/>
                                     <thumbnail2 jcr:lastModified="2012-01-25T20:11:19.270+01:00"
                                        jcr:lastModifiedBy="jay"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="f730e144-4a45-4b24-8f7f-20c5a86ce8bd"/>
+                                       jcr:uuid="40edeeb9-71eb-497e-bf78-9e9b8ed30a41"/>
                                     <avatar_120 jcr:lastModified="2012-01-25T20:11:19.497+01:00"
                                        jcr:lastModifiedBy="jay"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="81d5758e-e71f-42ee-871b-b68cd2cf8597"/>
+                                       jcr:uuid="d739b5fb-1b36-4f2b-8398-213b6cf73a9e"/>
                                     <avatar_60 jcr:lastModified="2012-01-25T20:11:19.497+01:00"
                                       jcr:lastModifiedBy="jay"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="cde2bfa3-d2d3-4815-bf0e-0f16d2b68a82"/>
+                                      jcr:uuid="883e40c2-ceaa-4cc3-864b-3aaefba58f15"/>
                                 </_x0031_8.jpg>
                             </profile>
                             <private j:originWS="default"
@@ -386,17 +159,17 @@
                               jcr:lastModifiedBy=""
                               jcr:mixinTypes="jmix:accessControlled"
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="0c2b68f4-1029-40cb-9a38-e05cc47b9ac6"
+                              jcr:uuid="854a62e4-9b6e-4df9-94f6-e783f5154e74"
                               j:publicationStatus="4">
                                 <j:acl j:inherit="false"
                                jcr:primaryType="jnt:acl"
-                               jcr:uuid="eaa25ff7-db2c-4887-a90e-d1af1c249fa5">
+                               jcr:uuid="199f4a14-c76e-4480-a70c-6acb5aad2ea8">
                                     <GRANT_u_user j:aceType="GRANT"
                                          j:principal="u:jay"
                                          j:protected="false"
                                          j:roles="owner"
                                          jcr:primaryType="jnt:ace"
-                                         jcr:uuid="8a994217-bd74-43ce-b20d-5c0b842aea2c"/>
+                                         jcr:uuid="f7e05c22-27c1-42a6-99a0-b87748bc7280"/>
                                 </j:acl>
                                 <imports j:originWS="default"
                                  jcr:created="2012-01-25T19:38:23.867+01:00"
@@ -404,7 +177,7 @@
                                  jcr:lastModified="2012-01-25T19:38:23.988+01:00"
                                  jcr:lastModifiedBy=""
                                  jcr:primaryType="jnt:importDropBox"
-                                 jcr:uuid="be9b458c-3496-4057-b4d3-fb49d5525b25"
+                                 jcr:uuid="7da025ba-3b0d-43fb-b5e0-4f14fa628afe"
                                  j:publicationStatus="4"/>
                             </private>
                         </files>
@@ -414,7 +187,7 @@
                             jcr:lastModified="2012-01-25T19:38:23.988+01:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:portletFolder"
-                            jcr:uuid="8fca85b7-92b0-4148-b566-0d2422d21dc4"
+                            jcr:uuid="86ea5543-5b36-4438-9de0-b48bcbb252e4"
                             j:publicationStatus="4"/>
                         <contents j:originWS="default"
                             jcr:created="2012-01-25T19:38:23.868+01:00"
@@ -422,47 +195,47 @@
                             jcr:lastModified="2012-01-25T19:38:23.988+01:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:contentFolder"
-                            jcr:uuid="61314bdf-8651-4220-b33c-5030f6a58f67"
+                            jcr:uuid="e45d0b35-4ebb-466d-8b19-f263a78f2237"
                             j:publicationStatus="4"/>
                     </jay>
                 </ba>
             </ej>
         </je>
-        <hj j:lastPublished="2014-03-19T10:51:43.140+01:00"
+        <hj j:lastPublished="2014-03-20T15:21:38.070+01:00"
           j:lastPublishedBy="root"
           j:originWS="default"
           j:published="true"
           jcr:created="2012-01-25T19:39:51.069+01:00"
           jcr:createdBy="system"
-          jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+          jcr:lastModified="2014-03-20T15:21:38.013+01:00"
           jcr:lastModifiedBy="root"
           jcr:primaryType="jnt:usersFolder"
-          jcr:uuid="674e134c-0216-4e5f-b584-bc4c42fce13a"
+          jcr:uuid="8c00486f-1b6a-4ddb-a625-896c54472a7f"
           j:publicationStatus="1">
-            <di j:lastPublished="2014-03-19T10:51:43.140+01:00"
+            <di j:lastPublished="2014-03-20T15:21:38.070+01:00"
              j:lastPublishedBy="root"
              j:originWS="default"
              j:published="true"
              jcr:created="2012-01-25T19:39:51.182+01:00"
              jcr:createdBy="system"
-             jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+             jcr:lastModified="2014-03-20T15:21:38.013+01:00"
              jcr:lastModifiedBy="root"
              jcr:primaryType="jnt:usersFolder"
-             jcr:uuid="5525fd2e-06d8-441f-bd38-bb64db89e945"
+             jcr:uuid="1fa40eba-2392-463d-8f28-2741585477b5"
              j:publicationStatus="1">
-                <ac j:lastPublished="2014-03-19T10:51:43.140+01:00"
+                <ac j:lastPublished="2014-03-20T15:21:38.070+01:00"
                 j:lastPublishedBy="root"
                 j:originWS="default"
                 j:published="true"
                 jcr:created="2012-01-25T19:39:51.369+01:00"
                 jcr:createdBy="system"
-                jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+                jcr:lastModified="2014-03-20T15:21:38.013+01:00"
                 jcr:lastModifiedBy="root"
                 jcr:primaryType="jnt:usersFolder"
-                jcr:uuid="02cfdf3d-2e04-48a5-bfe9-3c701463b40e"
+                jcr:uuid="c7cb5fac-8375-40fe-8bc4-8fdba2977bf5"
                 j:publicationStatus="1">
                     <bill emailNotificationsDisabled="true"
-                     j:about="&lt;p&gt;&#xA; Lorem Ipsum dolor sit amet,consectetur adipisicing elit, sed doeiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim adminim veniam, quis nostrudexercitation ullamco laboris nisi utaliquip ex ea commodo consequat.Duis aute irure dolor inreprehenderit in coluptate velit essecillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatatnon proident, sunt in culpa quiofficia deserunt mollit anim id estlaborum.&lt;/p&gt;&#xA;"
+                     j:about="&lt;p&gt;&lt;span style=&#34;color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/p&gt;"
                      j:accountLocked="false"
                      j:email=""
                      j:external="false"
@@ -470,77 +243,39 @@
                      j:function="Vice President"
                      j:gender="male"
                      j:lastName="Galileo"
-                     j:lastPublished="2014-03-19T10:51:46.090+01:00"
-                     j:lastPublishedBy="root"
+                     j:lastPublished="2014-03-20T18:20:20.464+01:00"
+                     j:lastPublishedBy="bill"
                      j:organization="Acme Space"
                      j:originWS="default"
                      j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
                      j:picture="#/users/hj/di/ac/bill/files/profile/6.jpg"
-                     j:publicProperties="j:about j:firstName j:function j:gender j:lastName j:organization j:picture j:title"
+                     j:publicProperties="j:about j:firstName j:function j:lastName j:organization j:picture j:title"
                      j:published="true"
                      j:title="mister"
                      jcr:created="2012-01-25T19:39:51.448+01:00"
                      jcr:createdBy="system"
-                     jcr:lastModified="2014-03-19T10:51:46.046+01:00"
-                     jcr:lastModifiedBy="root"
+                     jcr:lastModified="2014-03-20T18:20:20.452+01:00"
+                     jcr:lastModifiedBy="bill"
                      jcr:mixinTypes="jmix:accessControlled"
                      jcr:primaryType="jnt:user"
-                     jcr:uuid="0715a84a-c9a0-40ef-9793-61d4ff67ce4d"
+                     jcr:uuid="2d4a6037-e308-424d-b31b-f0fd7d3b0bf3"
                      preferredLanguage="en"
                      j:publicationStatus="1">
                         <preferences jcr:primaryType="jnt:preferences"
-                               jcr:uuid="80f22ca8-099a-4852-997b-a406d62351bd"/>
+                               jcr:uuid="d839c9a0-dcf2-4d30-befd-571a864b0574"/>
                         <j:acl jcr:primaryType="jnt:acl"
-                         jcr:uuid="ef407b81-92fa-4045-8384-dd1405d5ae42">
+                         jcr:uuid="7cbf5b09-931b-4215-bfea-ee893b73748b">
                             <GRANT_u_bill j:aceType="GRANT"
                                    j:principal="u:bill"
                                    j:protected="false"
                                    j:roles="owner"
                                    jcr:primaryType="jnt:ace"
-                                   jcr:uuid="35d1ab7b-ad8e-47b0-802c-cfa5f7694817"/>
+                                   jcr:uuid="b46f3f0c-0c76-4017-ba13-ba3bbc7a8fe2"/>
                         </j:acl>
                         <j:addresses jcr:primaryType="jnt:addresses"
-                               jcr:uuid="b506eeb8-516c-40e7-a76d-69fcbb068ac0"/>
+                               jcr:uuid="d8c33705-dba4-4fe3-956a-98c9f9357b95"/>
                         <j:phones jcr:primaryType="jnt:phoneNumbers"
-                            jcr:uuid="a3c2073a-82a5-417c-906f-9f8a086cf838"/>
-                        <passwordHistory jcr:primaryType="jnt:passwordHistory"
-                                   jcr:uuid="5a50ca12-0a69-4780-812b-6e0684c787d5">
-                            <pwd-2014-02-18-13-00-12 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-18T13:00:12.504+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="af6727f6-25bd-4970-9564-dcc2929737ad"/>
-                            <pwd-2014-02-21-13-26-35 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-21T13:26:35.649+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="4c55a65f-3d64-4763-ba72-47f2b64d4e4e"/>
-                            <pwd-2014-02-27-09-46-47 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-27T09:46:47.223+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="7197dc02-11aa-49fc-b933-e923ec6f110c"/>
-                            <pwd-2014-03-07-13-31-15 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-07T13:31:15.071+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="9cbc6c17-1e5b-4768-b774-c21defac4f46"/>
-                            <pwd-2014-03-13-16-10-40 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-13T16:10:40.754+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="59cbb094-83dc-43ec-8bae-623dcde1b56f"/>
-                            <pwd-2014-03-17-12-01-13 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-17T12:01:13.061+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="dd8061ed-2309-4b64-aef2-cb39def5af1c"/>
-                            <pwd-2014-03-19-10-51-44 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-19T10:51:44.050+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="ea83985a-80f4-468d-9ebf-71eeaae897cf"/>
-                        </passwordHistory>
+                            jcr:uuid="92c64ac8-d6e1-4db2-9a80-49b6644fb360"/>
                         <files j:lastPublished="2012-04-17T16:49:10.230+02:00"
                          j:lastPublishedBy="root"
                          j:originWS="default"
@@ -550,7 +285,7 @@
                          jcr:lastModified="2012-01-25T19:39:51.566+01:00"
                          jcr:lastModifiedBy=""
                          jcr:primaryType="jnt:folder"
-                         jcr:uuid="3b22e98b-98f4-414f-863e-5fe301ea4065"
+                         jcr:uuid="34e89172-0875-4a39-b017-e608e02ba612"
                          j:publicationStatus="1">
                             <profile j:lastPublished="2012-04-17T16:49:10.230+02:00"
                               j:lastPublishedBy="root"
@@ -561,7 +296,7 @@
                               jcr:lastModified="2012-01-25T19:39:51.566+01:00"
                               jcr:lastModifiedBy=""
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="bad9082a-b800-4a69-ba64-b1eed3e4dde5"
+                              jcr:uuid="c155be11-c581-486c-bfc5-b1715491edfa"
                               j:publicationStatus="1">
                                 <_x0036_.jpg j:height="111"
                                      j:lastPublished="2012-02-13T09:30:59.727+01:00"
@@ -577,33 +312,33 @@
                                      jcr:lastModifiedBy="bill"
                                      jcr:mixinTypes="jmix:exif jmix:image"
                                      jcr:primaryType="jnt:file"
-                                     jcr:uuid="c252ccde-e8a8-45c9-bc0b-265216c9476c"
+                                     jcr:uuid="89fa2c9f-d278-497b-94e1-18a92a65d51d"
                                      j:publicationStatus="1">
                                     <jcr:content jcr:lastModified="2012-01-25T20:07:52.617+01:00"
                                         jcr:lastModifiedBy="bill"
                                         jcr:mimeType="image/jpeg"
                                         jcr:primaryType="jnt:resource"
-                                        jcr:uuid="a88eb088-746d-43b3-b04e-0bfca9a676d5"/>
+                                        jcr:uuid="3b451afd-89ab-4ff6-849f-8dedd1e7209c"/>
                                     <thumbnail jcr:lastModified="2012-01-25T20:07:52.703+01:00"
                                       jcr:lastModifiedBy="bill"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="5a5fc5d7-3c41-450e-8982-1fc261e35989"/>
+                                      jcr:uuid="46539f05-f75d-4717-b4d5-5d7eb84a6ed1"/>
                                     <thumbnail2 jcr:lastModified="2012-01-25T20:07:52.703+01:00"
                                        jcr:lastModifiedBy="bill"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="5852a599-c35d-4d54-a716-2f861b428488"/>
+                                       jcr:uuid="57149ceb-ac3b-4b7d-af3f-e9be9709718f"/>
                                     <avatar_120 jcr:lastModified="2012-01-25T20:07:52.936+01:00"
                                        jcr:lastModifiedBy="bill"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="bcf2dc8a-2290-42d3-9e62-857ed75c185a"/>
+                                       jcr:uuid="1dad8a32-a25f-4b79-8c7a-b7ffcbe582c3"/>
                                     <avatar_60 jcr:lastModified="2012-01-25T20:07:52.936+01:00"
                                       jcr:lastModifiedBy="bill"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="1870f0f4-a5cf-4de8-b9e9-7f450a76469b"/>
+                                      jcr:uuid="8a738491-0294-4048-a4d4-d0c79c7b0395"/>
                                 </_x0036_.jpg>
                             </profile>
                             <private j:originWS="default"
@@ -613,17 +348,17 @@
                               jcr:lastModifiedBy=""
                               jcr:mixinTypes="jmix:accessControlled"
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="4ea24815-042d-4b48-99c5-46e96916e224"
+                              jcr:uuid="78cf4f0f-b5b5-49c8-afeb-0950d59da5ac"
                               j:publicationStatus="4">
                                 <j:acl j:inherit="false"
                                jcr:primaryType="jnt:acl"
-                               jcr:uuid="f348738d-90f8-45d6-a847-13100ebde24c">
+                               jcr:uuid="e93b37b9-bcbd-401c-a557-d75f9b3dd081">
                                     <GRANT_u_user j:aceType="GRANT"
                                          j:principal="u:bill"
                                          j:protected="false"
                                          j:roles="owner"
                                          jcr:primaryType="jnt:ace"
-                                         jcr:uuid="3362351d-ff28-476d-8029-f89a36670ed4"/>
+                                         jcr:uuid="38a8cbde-d69a-4365-be26-606e46fbf2cd"/>
                                 </j:acl>
                                 <imports j:originWS="default"
                                  jcr:created="2012-01-25T19:39:51.451+01:00"
@@ -631,7 +366,7 @@
                                  jcr:lastModified="2012-01-25T19:39:51.566+01:00"
                                  jcr:lastModifiedBy=""
                                  jcr:primaryType="jnt:importDropBox"
-                                 jcr:uuid="9a9ec21b-8c98-45cd-9bae-4c515d7b3056"
+                                 jcr:uuid="50f2d569-888c-4428-b2dc-26e3d43711a6"
                                  j:publicationStatus="4"/>
                             </private>
                         </files>
@@ -641,7 +376,7 @@
                             jcr:lastModified="2012-01-25T19:39:51.566+01:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:portletFolder"
-                            jcr:uuid="c518c6f5-8f04-45de-8a13-35435874777f"
+                            jcr:uuid="83ed3f31-a72f-4959-8d40-b430557a764d"
                             j:publicationStatus="4"/>
                         <contents j:originWS="default"
                             jcr:created="2012-01-25T19:39:51.452+01:00"
@@ -649,51 +384,51 @@
                             jcr:lastModified="2012-01-25T19:39:51.566+01:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:contentFolder"
-                            jcr:uuid="5073ccfb-4931-4f2e-be03-1e5157523ad0"
+                            jcr:uuid="390aa4fd-912a-4c33-80bb-2c8c022c5c97"
                             j:publicationStatus="4"/>
                         <workflowTasks j:originWS="default"
                                  jcr:created="2014-02-19T11:36:22.456+01:00"
                                  jcr:createdBy="bill"
-                                 jcr:lastModified="2014-03-19T11:02:38.741+01:00"
+                                 jcr:lastModified="2014-03-19T19:19:19.006+01:00"
                                  jcr:lastModifiedBy="root"
                                  jcr:primaryType="jnt:tasks"
-                                 jcr:uuid="a2a4aee9-ec22-4f52-8dfe-5487f044e3ee"/>
+                                 jcr:uuid="897b5b4e-148e-4a2d-b651-f6b13ecd98f4"/>
                     </bill>
                 </ac>
             </di>
         </hj>
-        <jb j:lastPublished="2014-03-19T10:51:43.140+01:00"
+        <jb j:lastPublished="2014-03-20T15:21:38.070+01:00"
           j:lastPublishedBy="root"
           j:originWS="default"
           j:published="true"
           jcr:created="2012-01-25T19:53:02.552+01:00"
           jcr:createdBy="system"
-          jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+          jcr:lastModified="2014-03-20T15:21:38.013+01:00"
           jcr:lastModifiedBy="root"
           jcr:primaryType="jnt:usersFolder"
-          jcr:uuid="0504c541-ffaa-4c79-ba83-5a3d24d200c1"
+          jcr:uuid="adb70c56-a54b-4428-bf4f-9700853d7539"
           j:publicationStatus="1">
-            <ac j:lastPublished="2014-03-19T10:51:43.140+01:00"
+            <ac j:lastPublished="2014-03-20T15:21:38.070+01:00"
              j:lastPublishedBy="root"
              j:originWS="default"
              j:published="true"
              jcr:created="2012-01-25T19:53:02.646+01:00"
              jcr:createdBy="system"
-             jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+             jcr:lastModified="2014-03-20T15:21:38.013+01:00"
              jcr:lastModifiedBy="root"
              jcr:primaryType="jnt:usersFolder"
-             jcr:uuid="53a0e96f-30ca-4ba9-88cd-493c2b92d47f"
+             jcr:uuid="8973e369-32ad-4f0a-8eb3-44eae43e019c"
              j:publicationStatus="1">
-                <eh j:lastPublished="2014-03-19T10:51:43.140+01:00"
+                <eh j:lastPublished="2014-03-20T15:21:38.070+01:00"
                 j:lastPublishedBy="root"
                 j:originWS="default"
                 j:published="true"
                 jcr:created="2012-01-25T19:53:02.742+01:00"
                 jcr:createdBy="system"
-                jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+                jcr:lastModified="2014-03-20T15:21:38.013+01:00"
                 jcr:lastModifiedBy="root"
                 jcr:primaryType="jnt:usersFolder"
-                jcr:uuid="77e95411-3dff-44c6-9c2d-784488523896"
+                jcr:uuid="9fbf1bbf-0802-4a43-ab98-a6601c82586a"
                 j:publicationStatus="1">
                     <irina emailNotificationsDisabled="true"
                       j:about="&lt;p&gt;&#xA; Lorem Ipsum dolor sit amet,consectetur adipisicing elit, sed doeiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim adminim veniam, quis nostrudexercitation ullamco laboris nisi utaliquip ex ea commodo consequat.Duis aute irure dolor inreprehenderit in coluptate velit essecillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatatnon proident, sunt in culpa quiofficia deserunt mollit anim id estlaborum.&lt;/p&gt;&#xA;"
@@ -704,7 +439,7 @@
                       j:function="Content validation Director"
                       j:gender="female"
                       j:lastName="Pasteur"
-                      j:lastPublished="2014-03-19T10:51:46.090+01:00"
+                      j:lastPublished="2014-03-20T15:21:38.817+01:00"
                       j:lastPublishedBy="root"
                       j:organization="Acme Space"
                       j:originWS="default"
@@ -715,66 +450,28 @@
                       j:title="madam"
                       jcr:created="2012-01-25T19:53:02.851+01:00"
                       jcr:createdBy="system"
-                      jcr:lastModified="2014-03-19T10:51:46.046+01:00"
-                      jcr:lastModifiedBy="root"
+                      jcr:lastModified="2014-03-20T15:21:38.806+01:00"
+                      jcr:lastModifiedBy=""
                       jcr:mixinTypes="jmix:accessControlled"
                       jcr:primaryType="jnt:user"
-                      jcr:uuid="3038ab3e-4f5b-4fc9-a1bf-45210b1e23cb"
+                      jcr:uuid="34a53db4-56e9-4513-b2de-25962cfd94e4"
                       preferredLanguage="en"
                       j:publicationStatus="1">
                         <preferences jcr:primaryType="jnt:preferences"
-                               jcr:uuid="026f2a91-4dd1-45df-847c-d1bfe1fe4051"/>
+                               jcr:uuid="2f3d685f-ef17-4999-8508-9da5bd4c9b9b"/>
                         <j:acl jcr:primaryType="jnt:acl"
-                         jcr:uuid="56f73a06-3c7f-410f-843e-bd497b4a37fe">
+                         jcr:uuid="77223189-140c-4e61-8fa5-cdbe02e62ae0">
                             <GRANT_u_irina j:aceType="GRANT"
                                     j:principal="u:irina"
                                     j:protected="false"
                                     j:roles="owner"
                                     jcr:primaryType="jnt:ace"
-                                    jcr:uuid="cf631173-4330-4c37-a2e2-b1b8fb97df31"/>
+                                    jcr:uuid="e04eb523-ab67-4483-9cc1-c0fbeea7f8af"/>
                         </j:acl>
                         <j:addresses jcr:primaryType="jnt:addresses"
-                               jcr:uuid="1014666f-9a36-48b7-841f-4d498215f477"/>
+                               jcr:uuid="0f28c9db-4d8f-4c49-aece-c64f39bb1a5f"/>
                         <j:phones jcr:primaryType="jnt:phoneNumbers"
-                            jcr:uuid="21f7a5d4-3efa-49f8-a2f8-19c707e66b2c"/>
-                        <passwordHistory jcr:primaryType="jnt:passwordHistory"
-                                   jcr:uuid="d451b963-46ff-46e7-9eda-67c710231996">
-                            <pwd-2014-02-18-13-00-12 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-18T13:00:12.636+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="b6dae913-0ac5-48c4-972a-b07ff6a8a520"/>
-                            <pwd-2014-02-21-13-26-35 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-21T13:26:35.693+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="0956898b-9888-4a96-9356-2e14da2829c7"/>
-                            <pwd-2014-02-27-09-46-47 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-27T09:46:47.302+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="8a513a96-7319-4048-ac96-aec5f941ec7e"/>
-                            <pwd-2014-03-07-13-31-15 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-07T13:31:15.128+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="5b2aa761-f568-49b4-831b-46ff2d84c3f5"/>
-                            <pwd-2014-03-13-16-10-40 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-13T16:10:40.917+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="d4e0248d-d65d-4f77-97eb-09ed0e31cda8"/>
-                            <pwd-2014-03-17-12-01-13 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-17T12:01:13.193+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="794c66e6-96d6-4d3b-96fc-b593ed1d57da"/>
-                            <pwd-2014-03-19-10-51-44 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-19T10:51:44.137+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="5e52bdd3-c2e2-405f-845c-98b124fc992b"/>
-                        </passwordHistory>
+                            jcr:uuid="39c9580c-eca6-4313-b571-7cb542e900b0"/>
                         <files j:lastPublished="2012-04-17T16:49:10.230+02:00"
                          j:lastPublishedBy="root"
                          j:originWS="default"
@@ -784,7 +481,7 @@
                          jcr:lastModified="2012-01-25T19:53:03.057+01:00"
                          jcr:lastModifiedBy=""
                          jcr:primaryType="jnt:folder"
-                         jcr:uuid="2809aa0e-da36-433e-855a-89c437823983"
+                         jcr:uuid="dc3d37ba-eb36-4974-ad11-ab90fff92ccc"
                          j:publicationStatus="1">
                             <profile j:lastPublished="2012-04-17T16:49:10.230+02:00"
                               j:lastPublishedBy="root"
@@ -795,7 +492,7 @@
                               jcr:lastModified="2012-01-25T19:53:03.057+01:00"
                               jcr:lastModifiedBy=""
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="60224c30-0d1f-43df-b8ae-e0505aec2e53"
+                              jcr:uuid="882ff61d-a93a-4a18-a700-d10ae8013612"
                               j:publicationStatus="1">
                                 <_x0035_.jpg j:height="111"
                                      j:lastPublished="2012-02-13T09:30:58.857+01:00"
@@ -811,33 +508,33 @@
                                      jcr:lastModifiedBy="irina"
                                      jcr:mixinTypes="jmix:exif jmix:image"
                                      jcr:primaryType="jnt:file"
-                                     jcr:uuid="0f6db73f-15fd-4ede-83a5-170c9d175a0a"
+                                     jcr:uuid="d756e8aa-9998-4866-b279-e4f271a590d9"
                                      j:publicationStatus="1">
                                     <jcr:content jcr:lastModified="2012-01-25T20:09:28.132+01:00"
                                         jcr:lastModifiedBy="irina"
                                         jcr:mimeType="image/jpeg"
                                         jcr:primaryType="jnt:resource"
-                                        jcr:uuid="eeb67ed7-b993-4090-bc2a-e9bada258b7a"/>
+                                        jcr:uuid="e3635826-06ce-4ca5-9822-b90cb4a383ef"/>
                                     <thumbnail jcr:lastModified="2012-01-25T20:09:28.213+01:00"
                                       jcr:lastModifiedBy="irina"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="399cea16-4e1d-459e-8082-bf49b2cfdb29"/>
+                                      jcr:uuid="41ffb0f8-0f2a-4edc-80db-5c042b07ac48"/>
                                     <thumbnail2 jcr:lastModified="2012-01-25T20:09:28.213+01:00"
                                        jcr:lastModifiedBy="irina"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="545ee1d7-0595-456e-beda-aa99545d2c50"/>
+                                       jcr:uuid="295b2fd0-9514-4fbc-b12c-9634ed296906"/>
                                     <avatar_120 jcr:lastModified="2012-01-25T20:09:28.428+01:00"
                                        jcr:lastModifiedBy="irina"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="3d664cfa-75a9-408b-879a-05068d117e14"/>
+                                       jcr:uuid="20e35b6f-9c14-43ab-822c-f6f55748d783"/>
                                     <avatar_60 jcr:lastModified="2012-01-25T20:09:28.428+01:00"
                                       jcr:lastModifiedBy="irina"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="969f9646-248e-41c0-a4c2-3980c7160158"/>
+                                      jcr:uuid="e7f36ca5-a2ef-4404-9690-c11c5f6542e4"/>
                                 </_x0035_.jpg>
                             </profile>
                             <private j:originWS="default"
@@ -847,17 +544,17 @@
                               jcr:lastModifiedBy=""
                               jcr:mixinTypes="jmix:accessControlled"
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="f1507e8e-3353-4c42-bcb3-b903d9167ec9"
+                              jcr:uuid="76c204fd-34e6-410f-ad08-961ac49b3772"
                               j:publicationStatus="4">
                                 <j:acl j:inherit="false"
                                jcr:primaryType="jnt:acl"
-                               jcr:uuid="ba18b362-ad5b-446b-91e4-42235a142a3d">
+                               jcr:uuid="10dc826e-0362-4096-8057-75e8637cf2ff">
                                     <GRANT_u_user j:aceType="GRANT"
                                          j:principal="u:irina"
                                          j:protected="false"
                                          j:roles="owner"
                                          jcr:primaryType="jnt:ace"
-                                         jcr:uuid="140d26a3-4a7e-4a8d-b9df-3ee7ebcd8844"/>
+                                         jcr:uuid="51534585-6244-4c42-a0d6-00e6cb6b9462"/>
                                 </j:acl>
                                 <imports j:originWS="default"
                                  jcr:created="2012-01-25T19:53:02.858+01:00"
@@ -865,7 +562,7 @@
                                  jcr:lastModified="2012-01-25T19:53:03.057+01:00"
                                  jcr:lastModifiedBy=""
                                  jcr:primaryType="jnt:importDropBox"
-                                 jcr:uuid="554e9938-d8bb-471d-8253-e94eac5cf8f4"
+                                 jcr:uuid="ad989314-e398-426a-a225-cd27d591bdae"
                                  j:publicationStatus="4"/>
                             </private>
                         </files>
@@ -875,7 +572,7 @@
                             jcr:lastModified="2012-01-25T19:53:03.057+01:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:portletFolder"
-                            jcr:uuid="6cfe2bce-beaf-42f9-96a8-7173491aee52"
+                            jcr:uuid="83783395-2fcf-45da-9315-0463e6e91d4d"
                             j:publicationStatus="4"/>
                         <contents j:originWS="default"
                             jcr:created="2012-01-25T19:53:02.859+01:00"
@@ -883,46 +580,46 @@
                             jcr:lastModified="2012-01-25T19:53:03.057+01:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:contentFolder"
-                            jcr:uuid="c72a0819-e6b0-4040-aad9-5e0b212fd295"
+                            jcr:uuid="ea14014e-e277-45fb-8829-66d6cb3e3ba5"
                             j:publicationStatus="4"/>
                     </irina>
                 </eh>
             </ac>
         </jb>
-        <he j:lastPublished="2014-03-19T10:51:43.140+01:00"
+        <he j:lastPublished="2014-03-20T15:21:38.070+01:00"
           j:lastPublishedBy="root"
           j:originWS="default"
           j:published="true"
           jcr:created="2012-08-29T17:38:46.404+02:00"
           jcr:createdBy="system"
-          jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+          jcr:lastModified="2014-03-20T15:21:38.013+01:00"
           jcr:lastModifiedBy="root"
           jcr:primaryType="jnt:usersFolder"
-          jcr:uuid="c32bb7a0-f16a-4e3e-96cc-6339282ce644"
+          jcr:uuid="90e4daa0-e068-4770-a820-82527a9e9e64"
           j:publicationStatus="1">
-            <ef j:lastPublished="2014-03-19T10:51:43.140+01:00"
+            <ef j:lastPublished="2014-03-20T15:21:38.070+01:00"
              j:lastPublishedBy="root"
              j:originWS="default"
              j:published="true"
              jcr:created="2012-08-29T17:38:46.499+02:00"
              jcr:createdBy="system"
-             jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+             jcr:lastModified="2014-03-20T15:21:38.013+01:00"
              jcr:lastModifiedBy="root"
              jcr:primaryType="jnt:usersFolder"
-             jcr:uuid="0f41ff13-8367-4bc5-ab71-0f7efc501c34"
+             jcr:uuid="1bc48573-058b-4c93-be69-89ed871a90d6"
              j:publicationStatus="1">
-                <cf j:lastPublished="2014-03-19T10:51:43.140+01:00"
+                <cf j:lastPublished="2014-03-20T15:21:38.070+01:00"
                 j:lastPublishedBy="root"
                 j:originWS="default"
                 j:published="true"
                 jcr:created="2012-08-29T17:38:46.620+02:00"
                 jcr:createdBy="system"
-                jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+                jcr:lastModified="2014-03-20T15:21:38.013+01:00"
                 jcr:lastModifiedBy="root"
                 jcr:primaryType="jnt:usersFolder"
-                jcr:uuid="10f8228a-c2f5-431e-b48b-8dace4427784"
+                jcr:uuid="275ed7fc-5390-4690-8172-de2a38cab6a5"
                 j:publicationStatus="1">
-                    <jane j:about="&lt;p&gt;&#xA; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;&#xA;"
+                    <jane j:about="&lt;p&gt;&lt;span style=&#34;color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/p&gt;"
                      j:accountLocked="false"
                      j:email=""
                      j:external="false"
@@ -930,77 +627,39 @@
                      j:function="Acme Space Website contributor"
                      j:gender="female"
                      j:lastName="Copernicus"
-                     j:lastPublished="2014-03-19T10:51:46.090+01:00"
-                     j:lastPublishedBy="root"
+                     j:lastPublished="2014-03-20T18:15:39.265+01:00"
+                     j:lastPublishedBy="jane"
                      j:organization="Acme Space"
                      j:originWS="default"
                      j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
                      j:picture="#/users/he/ef/cf/jane/files/profile/12.jpg"
-                     j:publicProperties="j:about j:function j:gender j:picture j:title"
+                     j:publicProperties="j:about j:firstName j:function j:lastName j:organization j:picture j:title"
                      j:published="true"
                      j:title="miss"
                      jcr:created="2012-08-29T17:38:46.709+02:00"
                      jcr:createdBy="system"
-                     jcr:lastModified="2014-03-19T10:51:46.046+01:00"
-                     jcr:lastModifiedBy="root"
+                     jcr:lastModified="2014-03-20T18:15:39.253+01:00"
+                     jcr:lastModifiedBy="jane"
                      jcr:mixinTypes="jmix:accessControlled"
                      jcr:primaryType="jnt:user"
-                     jcr:uuid="7c6baade-26ba-4831-82c4-7fd4221a5fd5"
+                     jcr:uuid="418c1bc7-63b4-41eb-b949-75487a1e17ac"
                      preferredLanguage="en"
                      j:publicationStatus="1">
                         <preferences jcr:primaryType="jnt:preferences"
-                               jcr:uuid="0a41679f-e6cf-47de-a0e8-41c41b58e029"/>
+                               jcr:uuid="102ac982-846f-4a22-889f-77627b29a222"/>
                         <j:acl jcr:primaryType="jnt:acl"
-                         jcr:uuid="660f2447-ed64-4817-912b-340a7acbd410">
+                         jcr:uuid="50db8b7c-7139-4a84-9ec5-505daae50e07">
                             <GRANT_u_jane j:aceType="GRANT"
                                    j:principal="u:jane"
                                    j:protected="false"
                                    j:roles="owner"
                                    jcr:primaryType="jnt:ace"
-                                   jcr:uuid="aa5bb513-f999-4e49-99cf-a95b10d576ff"/>
+                                   jcr:uuid="285bfb36-3c28-4dbd-bb47-e5912a026dd9"/>
                         </j:acl>
                         <j:addresses jcr:primaryType="jnt:addresses"
-                               jcr:uuid="70ef0443-683b-4024-bd6d-138fcfb11912"/>
+                               jcr:uuid="877996d4-b1a8-4540-b837-82cc9e130199"/>
                         <j:phones jcr:primaryType="jnt:phoneNumbers"
-                            jcr:uuid="c553c3d2-f84d-4b23-902d-2ea4ef13e9c7"/>
-                        <passwordHistory jcr:primaryType="jnt:passwordHistory"
-                                   jcr:uuid="0f864c74-02ad-461f-93e3-c4ef39ea6393">
-                            <pwd-2014-02-18-13-00-12 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-18T13:00:12.773+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="544b8d45-6886-434d-9e10-a1fd7b5584aa"/>
-                            <pwd-2014-02-21-13-26-35 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-21T13:26:35.777+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="f7bd6395-cad9-4673-b908-e051b6c7ddc6"/>
-                            <pwd-2014-02-27-09-46-47 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-27T09:46:47.388+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="2a4f7bf6-819e-4099-a780-16d900a2871c"/>
-                            <pwd-2014-03-07-13-31-15 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-07T13:31:15.239+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="0896d9a8-7832-4d62-9a7c-5ee5001b4021"/>
-                            <pwd-2014-03-13-16-10-40 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-13T16:10:40.792+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="c212a0d6-07e7-4855-a659-5cf198c5257f"/>
-                            <pwd-2014-03-17-12-01-13 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-17T12:01:13.097+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="4ee5cf7f-b90f-416c-b840-3e67b2a24e34"/>
-                            <pwd-2014-03-19-10-51-44 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-19T10:51:44.095+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="4d3ef4fe-3d5f-45e6-879d-31f62e0d9755"/>
-                        </passwordHistory>
+                            jcr:uuid="95428319-85a8-45e3-8996-b9763805e976"/>
                         <files j:lastPublished="2012-09-03T11:54:57.372+02:00"
                          j:lastPublishedBy="root"
                          j:originWS="default"
@@ -1010,7 +669,7 @@
                          jcr:lastModified="2012-08-29T17:38:47.515+02:00"
                          jcr:lastModifiedBy=""
                          jcr:primaryType="jnt:folder"
-                         jcr:uuid="e4c90b54-857c-43af-aefb-11740cadabe1"
+                         jcr:uuid="7e2164eb-9e1e-4c30-8854-9b8906aa2e1c"
                          j:publicationStatus="1">
                             <profile j:lastPublished="2012-09-03T11:54:57.372+02:00"
                               j:lastPublishedBy="root"
@@ -1021,7 +680,7 @@
                               jcr:lastModified="2012-08-29T17:38:47.515+02:00"
                               jcr:lastModifiedBy=""
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="c188bbde-3d98-413c-bf5b-572fc737704d"
+                              jcr:uuid="273e3349-3143-4a37-8257-6d2349f959ef"
                               j:publicationStatus="1">
                                 <_x0031_2.jpg j:height="111"
                                       j:lastPublished="2012-08-29T19:21:39.163+02:00"
@@ -1037,33 +696,33 @@
                                       jcr:lastModifiedBy="jane"
                                       jcr:mixinTypes="jmix:exif jmix:image"
                                       jcr:primaryType="jnt:file"
-                                      jcr:uuid="f2e68efd-b3c0-46d7-ba76-fbfea8348d51"
+                                      jcr:uuid="868e8fc0-5457-4697-a43e-ee275a9b2db6"
                                       j:publicationStatus="1">
                                     <jcr:content jcr:lastModified="2012-08-29T19:21:38.472+02:00"
                                         jcr:lastModifiedBy="jane"
                                         jcr:mimeType="image/jpeg"
                                         jcr:primaryType="jnt:resource"
-                                        jcr:uuid="d988fa81-de00-4838-8dec-a9450c6c2281"/>
+                                        jcr:uuid="2adc88a4-8659-4b07-b962-1dffaee14c58"/>
                                     <thumbnail jcr:lastModified="2012-08-29T19:21:38.716+02:00"
                                       jcr:lastModifiedBy="jane"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="9967c29e-c371-4381-a260-691f6991355d"/>
+                                      jcr:uuid="91f82770-861d-4873-9c70-5272c9309846"/>
                                     <thumbnail2 jcr:lastModified="2012-08-29T19:21:38.716+02:00"
                                        jcr:lastModifiedBy="jane"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="acf11727-f869-4355-aeed-b48aae0ed3f1"/>
+                                       jcr:uuid="9c42260f-968e-4f62-b022-397ae1b151bb"/>
                                     <avatar_120 jcr:lastModified="2012-08-29T19:21:39.134+02:00"
                                        jcr:lastModifiedBy="jane"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="bfacc1c3-10b1-41a3-a90b-74113df47460"/>
+                                       jcr:uuid="571abaa3-344d-4e47-a457-d22e3c9a82c2"/>
                                     <avatar_60 jcr:lastModified="2012-08-29T19:21:39.134+02:00"
                                       jcr:lastModifiedBy="jane"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="0471575b-1de5-4884-8270-9b0d5d566fbc"/>
+                                      jcr:uuid="6b7c1a0b-719f-40c1-93b5-d645e7605489"/>
                                 </_x0031_2.jpg>
                             </profile>
                             <private j:originWS="default"
@@ -1073,17 +732,17 @@
                               jcr:lastModifiedBy=""
                               jcr:mixinTypes="jmix:accessControlled"
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="21a2c1e9-6c84-4390-9db2-8fa9e2c1a3a9"
+                              jcr:uuid="f57bd629-72c0-468d-98fc-3158654cf9b1"
                               j:publicationStatus="4">
                                 <j:acl j:inherit="false"
                                jcr:primaryType="jnt:acl"
-                               jcr:uuid="3e312cfc-00df-4608-96a5-4e749a6c16ee">
+                               jcr:uuid="5ebe2321-d2ff-41bd-857c-981b21c4b1d4">
                                     <GRANT_u_user j:aceType="GRANT"
                                          j:principal="u:jane"
                                          j:protected="false"
                                          j:roles="owner"
                                          jcr:primaryType="jnt:ace"
-                                         jcr:uuid="dcddd312-4ce4-48da-8b33-6660208de070"/>
+                                         jcr:uuid="2e44e3eb-3f6a-4e65-9760-b7f73f2faa37"/>
                                 </j:acl>
                                 <imports j:originWS="default"
                                  jcr:created="2012-08-29T17:38:47.398+02:00"
@@ -1091,7 +750,7 @@
                                  jcr:lastModified="2012-08-29T17:38:47.515+02:00"
                                  jcr:lastModifiedBy=""
                                  jcr:primaryType="jnt:importDropBox"
-                                 jcr:uuid="d990abdc-5596-4e13-8516-1ba526877830"
+                                 jcr:uuid="aa6eadfe-4b0e-453f-a119-1ade828075cd"
                                  j:publicationStatus="4"/>
                             </private>
                         </files>
@@ -1101,7 +760,7 @@
                             jcr:lastModified="2012-08-29T17:38:47.515+02:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:portletFolder"
-                            jcr:uuid="34d43090-98ac-4c44-8c82-dfda105c6fc0"
+                            jcr:uuid="3393c582-323c-4e49-9de7-c4839149ab13"
                             j:publicationStatus="4"/>
                         <contents j:originWS="default"
                             jcr:created="2012-08-29T17:38:47.399+02:00"
@@ -1109,47 +768,47 @@
                             jcr:lastModified="2012-08-29T17:38:47.515+02:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:contentFolder"
-                            jcr:uuid="0fe48be6-b05a-40db-864c-1d19341ceaa6"
+                            jcr:uuid="94dc1edc-deeb-4e26-9f81-6f92b3056404"
                             j:publicationStatus="4"/>
                     </jane>
                 </cf>
             </ef>
         </he>
-        <jf j:lastPublished="2014-03-19T10:51:43.140+01:00"
+        <jf j:lastPublished="2014-03-20T15:21:38.070+01:00"
           j:lastPublishedBy="root"
           j:originWS="default"
           j:published="true"
           jcr:created="2012-01-25T19:36:17.389+01:00"
           jcr:createdBy="system"
-          jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+          jcr:lastModified="2014-03-20T15:21:38.013+01:00"
           jcr:lastModifiedBy="root"
           jcr:primaryType="jnt:usersFolder"
-          jcr:uuid="cb854ec8-9410-49ac-9289-0a1e4dc1b36e"
+          jcr:uuid="2fbc3bc2-5732-43bd-8796-02ca46ad705d"
           j:publicationStatus="1">
-            <bi j:lastPublished="2014-03-19T10:51:43.140+01:00"
+            <bi j:lastPublished="2014-03-20T15:21:38.070+01:00"
              j:lastPublishedBy="root"
              j:originWS="default"
              j:published="true"
              jcr:created="2012-01-25T19:36:17.491+01:00"
              jcr:createdBy="system"
-             jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+             jcr:lastModified="2014-03-20T15:21:38.013+01:00"
              jcr:lastModifiedBy="root"
              jcr:primaryType="jnt:usersFolder"
-             jcr:uuid="ac4375ed-8a4f-4b6b-a1e4-f9c9acfa4101"
+             jcr:uuid="6e5d20dc-d59e-4354-b07c-ac5748f39120"
              j:publicationStatus="1">
-                <ab j:lastPublished="2014-03-19T10:51:43.140+01:00"
+                <ab j:lastPublished="2014-03-20T15:21:38.070+01:00"
                 j:lastPublishedBy="root"
                 j:originWS="default"
                 j:published="true"
                 jcr:created="2012-01-25T19:36:17.593+01:00"
                 jcr:createdBy="system"
-                jcr:lastModified="2014-03-19T10:51:43.008+01:00"
+                jcr:lastModified="2014-03-20T15:21:38.013+01:00"
                 jcr:lastModifiedBy="root"
                 jcr:primaryType="jnt:usersFolder"
-                jcr:uuid="9c5d88c2-05fb-4ca2-b0f2-1558fef68096"
+                jcr:uuid="fae3d7bc-200d-4632-98bd-3d7f12bd7c0f"
                 j:publicationStatus="1">
                     <mathias emailNotificationsDisabled="true"
-                        j:about="&lt;p&gt;&#xA; Lorem Ipsum dolor sit amet,consectetur adipisicing elit, sed doeiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim adminim veniam, quis nostrudexercitation ullamco laboris nisi utaliquip ex ea commodo consequat.Duis aute irure dolor inreprehenderit in coluptate velit essecillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatatnon proident, sunt in culpa quiofficia deserunt mollit anim id estlaborum.&lt;/p&gt;&#xA;"
+                        j:about="&lt;p&gt;&lt;span style=&#34;color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/p&gt;"
                         j:accountLocked="false"
                         j:email=""
                         j:external="false"
@@ -1157,77 +816,39 @@
                         j:function="Acme Site Administrator"
                         j:gender="male"
                         j:lastName="Einstein"
-                        j:lastPublished="2014-03-19T10:51:46.090+01:00"
-                        j:lastPublishedBy="root"
+                        j:lastPublished="2014-03-20T18:18:47.662+01:00"
+                        j:lastPublishedBy="mathias"
                         j:organization="Acme Space"
                         j:originWS="default"
                         j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
                         j:picture="#/users/jf/bi/ab/mathias/files/profile/13.jpg"
-                        j:publicProperties="j:about j:firstName j:function j:gender j:lastName j:organization j:picture j:title"
+                        j:publicProperties="j:about j:firstName j:function j:lastName j:organization j:picture j:title"
                         j:published="true"
                         j:title="mister"
                         jcr:created="2012-01-25T19:36:17.678+01:00"
                         jcr:createdBy="system"
-                        jcr:lastModified="2014-03-19T10:51:46.046+01:00"
-                        jcr:lastModifiedBy="root"
+                        jcr:lastModified="2014-03-20T18:18:47.652+01:00"
+                        jcr:lastModifiedBy="mathias"
                         jcr:mixinTypes="jmix:accessControlled"
                         jcr:primaryType="jnt:user"
-                        jcr:uuid="03cf8e90-a302-49b8-91ce-1550ddbace01"
+                        jcr:uuid="1353eb6e-3d9e-4a96-a1dd-268b8ba3fcb3"
                         preferredLanguage="en"
                         j:publicationStatus="1">
                         <preferences jcr:primaryType="jnt:preferences"
-                               jcr:uuid="a90ac633-eb49-4e48-a2cb-1359ca01318b"/>
+                               jcr:uuid="518bee17-c8d8-44b9-ac56-0c52ff916ff7"/>
                         <j:acl jcr:primaryType="jnt:acl"
-                         jcr:uuid="389424e1-40f9-46df-be5f-508e3ec6c832">
+                         jcr:uuid="c1ae8baf-149b-4512-96b2-0acd6232048d">
                             <GRANT_u_mathias j:aceType="GRANT"
                                       j:principal="u:mathias"
                                       j:protected="false"
                                       j:roles="owner"
                                       jcr:primaryType="jnt:ace"
-                                      jcr:uuid="2bc2b2f8-f08c-4f18-954b-55501debe680"/>
+                                      jcr:uuid="8084b478-dc15-40aa-87c5-5f091cadb4ed"/>
                         </j:acl>
                         <j:addresses jcr:primaryType="jnt:addresses"
-                               jcr:uuid="fe354707-f18e-4616-a308-e9c547592431"/>
+                               jcr:uuid="d9280656-e284-4292-824a-a7687bbc3cfe"/>
                         <j:phones jcr:primaryType="jnt:phoneNumbers"
-                            jcr:uuid="75edb647-5fab-4744-8e44-aff015ebaf7a"/>
-                        <passwordHistory jcr:primaryType="jnt:passwordHistory"
-                                   jcr:uuid="25d9c579-b884-49ce-921a-1af19e19e4a7">
-                            <pwd-2014-02-18-13-00-12 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-18T13:00:12.570+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="b5456c7d-c64b-4fb4-b88c-4a9d9960eb17"/>
-                            <pwd-2014-02-21-13-26-35 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-21T13:26:35.832+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="eff284eb-8173-4779-8b97-3aca4e2d10b5"/>
-                            <pwd-2014-02-27-09-46-47 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-02-27T09:46:47.261+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="9dc1d945-5883-497e-a557-77c9f05860bf"/>
-                            <pwd-2014-03-07-13-31-15 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-07T13:31:15.188+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="5668aadb-84ad-492c-9363-82ff2214bc86"/>
-                            <pwd-2014-03-13-16-10-40 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-13T16:10:40.880+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="bc9c1421-51a3-4fdb-a678-30c0977d72e0"/>
-                            <pwd-2014-03-17-12-01-13 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-17T12:01:13.148+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="b384e465-1c5d-4841-9d58-c3b823e340e2"/>
-                            <pwd-2014-03-19-10-51-44 j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
-                                              jcr:created="2014-03-19T10:51:44.175+01:00"
-                                              jcr:createdBy="system"
-                                              jcr:primaryType="jnt:passwordHistoryEntry"
-                                              jcr:uuid="d695c779-0d6e-49f4-8687-c221e77c6af8"/>
-                        </passwordHistory>
+                            jcr:uuid="99e3df55-6b23-4f8d-9703-c3e680ff8cb7"/>
                         <files j:lastPublished="2012-04-17T16:49:10.230+02:00"
                          j:lastPublishedBy="root"
                          j:originWS="default"
@@ -1237,7 +858,7 @@
                          jcr:lastModified="2012-01-25T19:36:18.379+01:00"
                          jcr:lastModifiedBy=""
                          jcr:primaryType="jnt:folder"
-                         jcr:uuid="90703049-dacf-45e4-9e53-07c2349c76ba"
+                         jcr:uuid="029f14fa-1d4e-4e7d-a61d-a40b94ceff9e"
                          j:publicationStatus="1">
                             <profile j:lastPublished="2012-04-17T16:49:10.230+02:00"
                               j:lastPublishedBy="root"
@@ -1248,7 +869,7 @@
                               jcr:lastModified="2012-01-25T19:36:18.379+01:00"
                               jcr:lastModifiedBy=""
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="4a4a741b-bf1f-41e7-be6e-bbb78326c88a"
+                              jcr:uuid="5c47ede3-75a5-497e-bfc8-45667d680865"
                               j:publicationStatus="1">
                                 <_x0031_3.jpg j:height="111"
                                       j:lastPublished="2012-02-13T09:30:59.516+01:00"
@@ -1264,33 +885,33 @@
                                       jcr:lastModifiedBy="mathias"
                                       jcr:mixinTypes="jmix:exif jmix:image"
                                       jcr:primaryType="jnt:file"
-                                      jcr:uuid="4d295b22-617d-4133-bbb4-b2a5cafeea9d"
+                                      jcr:uuid="96df99bc-832b-455e-a879-82cd241b2ead"
                                       j:publicationStatus="1">
                                     <jcr:content jcr:lastModified="2012-01-25T20:02:35.093+01:00"
                                         jcr:lastModifiedBy="mathias"
                                         jcr:mimeType="image/jpeg"
                                         jcr:primaryType="jnt:resource"
-                                        jcr:uuid="cbc4fd6b-cb4b-402c-940b-91ae9116ce3d"/>
+                                        jcr:uuid="1f6db896-cf6a-4ed9-baaa-359fe2eafd55"/>
                                     <thumbnail jcr:lastModified="2012-01-25T20:02:35.187+01:00"
                                       jcr:lastModifiedBy="mathias"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="54228b42-d0c9-4ea3-97b5-e707487c6397"/>
+                                      jcr:uuid="0b8f6c03-bae1-475f-ae19-e9155706afeb"/>
                                     <thumbnail2 jcr:lastModified="2012-01-25T20:02:35.187+01:00"
                                        jcr:lastModifiedBy="mathias"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="51d3b866-2bf7-4200-b87d-cff16b036d8b"/>
+                                       jcr:uuid="817e5c2c-8988-435f-b0e0-5d4f7e5d6e07"/>
                                     <avatar_120 jcr:lastModified="2012-01-25T20:02:35.418+01:00"
                                        jcr:lastModifiedBy="mathias"
                                        jcr:mimeType="image/jpeg"
                                        jcr:primaryType="jnt:resource"
-                                       jcr:uuid="e2cd9fd8-20c3-4223-ad58-55c963fd8821"/>
+                                       jcr:uuid="72588bd3-6afb-45d9-802a-1939c2a01bd4"/>
                                     <avatar_60 jcr:lastModified="2012-01-25T20:02:35.418+01:00"
                                       jcr:lastModifiedBy="mathias"
                                       jcr:mimeType="image/jpeg"
                                       jcr:primaryType="jnt:resource"
-                                      jcr:uuid="7531e71f-8530-4b1b-9782-d27970aafdf8"/>
+                                      jcr:uuid="2643838f-c476-4098-b662-d74cd2144199"/>
                                 </_x0031_3.jpg>
                             </profile>
                             <private j:originWS="default"
@@ -1300,17 +921,17 @@
                               jcr:lastModifiedBy=""
                               jcr:mixinTypes="jmix:accessControlled"
                               jcr:primaryType="jnt:folder"
-                              jcr:uuid="12ba80af-4e7a-45a6-a15a-c7b5f06173ba"
+                              jcr:uuid="e3b5cc4e-95b1-4dff-96cb-87a73dc13381"
                               j:publicationStatus="4">
                                 <j:acl j:inherit="false"
                                jcr:primaryType="jnt:acl"
-                               jcr:uuid="8e283fa6-2000-4dda-8b4e-b7f39925a22a">
+                               jcr:uuid="aa02b6b8-19d7-4b89-931d-205f6924e4db">
                                     <GRANT_u_user j:aceType="GRANT"
                                          j:principal="u:mathias"
                                          j:protected="false"
                                          j:roles="owner"
                                          jcr:primaryType="jnt:ace"
-                                         jcr:uuid="5e541198-d48d-4401-9cd2-a6ea4e4e11e3"/>
+                                         jcr:uuid="c73aabbe-a1c4-4c4d-a7d4-1333a9d513b0"/>
                                 </j:acl>
                                 <imports j:originWS="default"
                                  jcr:created="2012-01-25T19:36:18.283+01:00"
@@ -1318,7 +939,7 @@
                                  jcr:lastModified="2012-01-25T19:36:18.379+01:00"
                                  jcr:lastModifiedBy=""
                                  jcr:primaryType="jnt:importDropBox"
-                                 jcr:uuid="3c93d113-603b-412b-b932-1ed94ffb2d9b"
+                                 jcr:uuid="dc1da7ac-5686-4795-85aa-a9932c9517f4"
                                  j:publicationStatus="4"/>
                             </private>
                         </files>
@@ -1328,7 +949,7 @@
                             jcr:lastModified="2012-01-25T19:36:18.379+01:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:portletFolder"
-                            jcr:uuid="c8e41523-210b-4805-bccf-23d49ba596d2"
+                            jcr:uuid="88511ede-6ded-45c3-88f1-68ea56b373aa"
                             j:publicationStatus="4"/>
                         <contents j:originWS="default"
                             jcr:created="2012-01-25T19:36:18.284+01:00"
@@ -1336,11 +957,190 @@
                             jcr:lastModified="2012-01-25T19:36:18.379+01:00"
                             jcr:lastModifiedBy=""
                             jcr:primaryType="jnt:contentFolder"
-                            jcr:uuid="34a72e1a-3c5b-4d65-bdb4-c73a64537174"
+                            jcr:uuid="1f833ef1-71e9-416d-80b4-7775fce4e001"
                             j:publicationStatus="4"/>
                     </mathias>
                 </ab>
             </bi>
         </jf>
+        <ei j:lastPublished="2014-03-20T16:52:40.620+01:00"
+          j:lastPublishedBy="root"
+          j:originWS="default"
+          j:published="true"
+          jcr:created="2014-03-20T16:52:40.611+01:00"
+          jcr:createdBy="system"
+          jcr:lastModified="2014-03-20T16:52:40.617+01:00"
+          jcr:lastModifiedBy=""
+          jcr:primaryType="jnt:usersFolder"
+          jcr:uuid="dfae89b6-3609-45a6-8b1c-9727a9ff0ba2"
+          j:publicationStatus="1">
+            <ij j:lastPublished="2014-03-20T16:52:40.639+01:00"
+             j:lastPublishedBy="root"
+             j:originWS="default"
+             j:published="true"
+             jcr:created="2014-03-20T16:52:40.632+01:00"
+             jcr:createdBy="system"
+             jcr:lastModified="2014-03-20T16:52:40.636+01:00"
+             jcr:lastModifiedBy=""
+             jcr:primaryType="jnt:usersFolder"
+             jcr:uuid="6dd867cb-2db0-4da5-bddf-1d13060bad93"
+             j:publicationStatus="1">
+                <jj j:lastPublished="2014-03-20T16:52:40.657+01:00"
+                j:lastPublishedBy="root"
+                j:originWS="default"
+                j:published="true"
+                jcr:created="2014-03-20T16:52:40.651+01:00"
+                jcr:createdBy="system"
+                jcr:lastModified="2014-03-20T16:52:40.654+01:00"
+                jcr:lastModifiedBy=""
+                jcr:primaryType="jnt:usersFolder"
+                jcr:uuid="86899b1d-f77f-48f9-a46a-46ce859b8b31"
+                j:publicationStatus="1">
+                    <anne emailNotificationsDisabled="false"
+                     j:about="&lt;p&gt;&lt;span style=&#34;color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;/p&gt;"
+                     j:accountLocked="false"
+                     j:email=""
+                     j:external="false"
+                     j:firstName="Anne"
+                     j:function="Acme Space website Editor in chief"
+                     j:gender="female"
+                     j:lastName="Lovelace"
+                     j:lastPublished="2014-03-20T18:14:46.728+01:00"
+                     j:lastPublishedBy="anne"
+                     j:organization="Acme Space"
+                     j:originWS="default"
+                     j:password="W6ph5Mm5Pz8GgiULbPgzG37mj9g="
+                     j:picture="#/users/ei/ij/jj/anne/files/profile/20.jpg"
+                     j:publicProperties="j:firstName j:function j:lastName j:organization j:picture j:title"
+                     j:published="true"
+                     jcr:created="2014-03-20T16:52:40.668+01:00"
+                     jcr:createdBy="system"
+                     jcr:lastModified="2014-03-20T18:14:46.715+01:00"
+                     jcr:lastModifiedBy="anne"
+                     jcr:mixinTypes="jmix:accessControlled"
+                     jcr:primaryType="jnt:user"
+                     jcr:uuid="d85f7840-f992-4fd6-add9-77fbc981ccfb"
+                     preferredLanguage="en"
+                     j:publicationStatus="1">
+                        <files j:originWS="default"
+                         jcr:created="2014-03-20T16:52:40.671+01:00"
+                         jcr:createdBy="system"
+                         jcr:lastModified="2014-03-20T16:52:40.725+01:00"
+                         jcr:lastModifiedBy=""
+                         jcr:primaryType="jnt:folder"
+                         jcr:uuid="f3452376-c3c9-494b-8648-897c227c009d"
+                         j:publicationStatus="4">
+                            <private j:originWS="default"
+                              jcr:created="2014-03-20T16:52:40.672+01:00"
+                              jcr:createdBy="system"
+                              jcr:lastModified="2014-03-20T16:52:40.725+01:00"
+                              jcr:lastModifiedBy=""
+                              jcr:mixinTypes="jmix:accessControlled"
+                              jcr:primaryType="jnt:folder"
+                              jcr:uuid="591cde8d-f7a3-4b36-a17d-5d6903b13b47"
+                              j:publicationStatus="4">
+                                <j:acl j:inherit="false"
+                               jcr:primaryType="jnt:acl"
+                               jcr:uuid="3c5598fa-3a42-4e20-8fde-5d87662f8892">
+                                    <GRANT_u_user j:aceType="GRANT"
+                                         j:principal="u:anne"
+                                         j:protected="false"
+                                         j:roles="owner"
+                                         jcr:primaryType="jnt:ace"
+                                         jcr:uuid="cdf7b42e-c937-4201-a69b-8e8e9cea85fd"/>
+                                </j:acl>
+                                <imports j:originWS="default"
+                                 jcr:created="2014-03-20T16:52:40.672+01:00"
+                                 jcr:createdBy="system"
+                                 jcr:lastModified="2014-03-20T16:52:40.725+01:00"
+                                 jcr:lastModifiedBy=""
+                                 jcr:primaryType="jnt:importDropBox"
+                                 jcr:uuid="5b705e28-7839-4646-898c-e8d4f7f0ecca"
+                                 j:publicationStatus="4"/>
+                            </private>
+                            <profile j:originWS="default"
+                              jcr:created="2014-03-20T16:52:40.672+01:00"
+                              jcr:createdBy="system"
+                              jcr:lastModified="2014-03-20T16:52:40.725+01:00"
+                              jcr:lastModifiedBy=""
+                              jcr:primaryType="jnt:folder"
+                              jcr:uuid="d2508683-7dc5-4432-b069-c22c6b230d38"
+                              j:publicationStatus="4">
+                                <_x0032_0.jpg j:height="111"
+                                      j:originWS="default"
+                                      j:width="111"
+                                      j:xresolution="100 dots"
+                                      j:yresolution="100 dots"
+                                      jcr:created="2014-03-20T18:12:36.434+01:00"
+                                      jcr:createdBy="anne"
+                                      jcr:lastModified="2014-03-20T18:12:45.138+01:00"
+                                      jcr:lastModifiedBy="anne"
+                                      jcr:mixinTypes="jmix:exif jmix:image"
+                                      jcr:primaryType="jnt:file"
+                                      jcr:uuid="88a58025-a6c8-40c2-81de-ab08efcc6170"
+                                      j:publicationStatus="4">
+                                    <jcr:content jcr:lastModified="2014-03-20T18:12:44.916+01:00"
+                                        jcr:lastModifiedBy="anne"
+                                        jcr:mimeType="image/jpeg"
+                                        jcr:primaryType="jnt:resource"
+                                        jcr:uuid="5114f402-7ce3-4ca5-81df-c62eb338a5c6"/>
+                                    <thumbnail jcr:lastModified="2014-03-20T18:12:44.967+01:00"
+                                      jcr:lastModifiedBy="anne"
+                                      jcr:mimeType="image/jpeg"
+                                      jcr:primaryType="jnt:resource"
+                                      jcr:uuid="9c2e6504-6535-4c0f-b11f-a1f55c0158a5"/>
+                                    <thumbnail2 jcr:lastModified="2014-03-20T18:12:44.967+01:00"
+                                       jcr:lastModifiedBy="anne"
+                                       jcr:mimeType="image/jpeg"
+                                       jcr:primaryType="jnt:resource"
+                                       jcr:uuid="20b9d4cb-7559-4b63-a63c-2e1f4f8dbea7"/>
+                                    <avatar_120 jcr:lastModified="2014-03-20T18:12:45.138+01:00"
+                                       jcr:lastModifiedBy="anne"
+                                       jcr:mimeType="image/jpeg"
+                                       jcr:primaryType="jnt:resource"
+                                       jcr:uuid="a28f6902-d297-4f34-8820-243fbd09a425"/>
+                                    <avatar_60 jcr:lastModified="2014-03-20T18:12:45.138+01:00"
+                                      jcr:lastModifiedBy="anne"
+                                      jcr:mimeType="image/jpeg"
+                                      jcr:primaryType="jnt:resource"
+                                      jcr:uuid="e821c7ff-2bf5-463f-9d1d-1e681ca16a05"/>
+                                </_x0032_0.jpg>
+                            </profile>
+                        </files>
+                        <portlets j:originWS="default"
+                            jcr:created="2014-03-20T16:52:40.673+01:00"
+                            jcr:createdBy="system"
+                            jcr:lastModified="2014-03-20T16:52:40.725+01:00"
+                            jcr:lastModifiedBy=""
+                            jcr:primaryType="jnt:portletFolder"
+                            jcr:uuid="fda90b39-fcd8-44b6-a182-f6cb436633e8"
+                            j:publicationStatus="4"/>
+                        <contents j:originWS="default"
+                            jcr:created="2014-03-20T16:52:40.673+01:00"
+                            jcr:createdBy="system"
+                            jcr:lastModified="2014-03-20T16:52:40.725+01:00"
+                            jcr:lastModifiedBy=""
+                            jcr:primaryType="jnt:contentFolder"
+                            jcr:uuid="10b38594-27f1-49f0-b824-f3e407355ba4"
+                            j:publicationStatus="4"/>
+                        <preferences jcr:primaryType="jnt:preferences"
+                               jcr:uuid="de2c38a5-0ea3-415e-98d4-b8dd2999c340"/>
+                        <j:acl jcr:primaryType="jnt:acl"
+                         jcr:uuid="771259f9-ffd6-438c-a2ef-f2b9e8105ded">
+                            <GRANT_u_anne j:aceType="GRANT"
+                                   j:principal="u:anne"
+                                   j:protected="false"
+                                   j:roles="owner"
+                                   jcr:primaryType="jnt:ace"
+                                   jcr:uuid="3bc77e9a-de1d-48db-a3bd-d5162714e084"/>
+                        </j:acl>
+                        <j:addresses jcr:primaryType="jnt:addresses"
+                               jcr:uuid="4a4b8997-9aea-4567-9eb1-39f618f8040c"/>
+                        <j:phones jcr:primaryType="jnt:phoneNumbers"
+                            jcr:uuid="8587b3cb-ca31-431b-9252-1c84ba0f793c"/>
+                    </anne>
+                </jj>
+            </ij>
+        </ei>
     </users>
 </content>
