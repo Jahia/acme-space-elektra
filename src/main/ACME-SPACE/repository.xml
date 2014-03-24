@@ -2092,9 +2092,6 @@
                         <site-administrators___2 j:member="/sites/ACMESPACE/groups/site-administrators"
                                            jcr:primaryType="jnt:member"
                                            jcr:uuid="15cbae2c-2a4a-4667-9e4d-8f576e9a55e5"/>
-                        <site-administrators___3 j:member="/sites/ACMESPACE/groups/site-administrators"
-                                           jcr:primaryType="jnt:member"
-                                           jcr:uuid="8d548787-63cc-4d04-bdfd-6c7ff744a408"/>
                         <irina j:member="/users/jb/ac/eh/irina"
                          jcr:primaryType="jnt:member"
                          jcr:uuid="01b0f6eb-7e0e-415a-aae3-8455d14cf9f7"/>
