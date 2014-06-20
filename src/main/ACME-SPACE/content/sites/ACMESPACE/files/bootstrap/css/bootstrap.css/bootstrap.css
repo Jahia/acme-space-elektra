@@ -209,6 +209,8 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #555555;
+}
+body.body-bg {
   background-color: #ffffff;
   background-image: url("../img/body-bg.jpg");
   background-repeat: no-repeat;
@@ -8254,3 +8256,5 @@ ul.sitemap li li li {
     overflow: visible !important;
   }
 }
+
+/* sources hash d122a238eeaead0fa09788931e4153f1 */
