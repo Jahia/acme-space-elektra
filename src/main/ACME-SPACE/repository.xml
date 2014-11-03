@@ -2249,7 +2249,7 @@
                                     jcr:lastModifiedBy="bill"
                                     jcr:mixinTypes="jmix:referencesInField mix:title"
                                     jcr:primaryType="jnt:translation"
-                                    jcr:title="Acme Space confirme le prochain lancement d'une mission vers Mars"
+                                    jcr:title="Acme Space révèle une nouvelle photographie 3D de Mars"
                                     jcr:uuid="1e574324-2b74-46c6-b2a4-e18512b8f277">
                         </j:translation_fr>
                     </news_36>
