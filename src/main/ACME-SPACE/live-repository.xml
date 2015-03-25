@@ -2175,7 +2175,7 @@
                              black="#000"
                              blue="#049cdb"
                              blueDark="#0064cd"
-                             bodyBackground="@white"
+                             bodyBackground="@black"
                              bodyBackgroundbg="&#34;../img/body-bg.jpg&#34;"
                              borderRadiusLarge="6px"
                              borderRadiusSmall="3px"

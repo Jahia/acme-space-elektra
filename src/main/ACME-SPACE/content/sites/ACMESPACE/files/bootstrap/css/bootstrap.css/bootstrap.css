@@ -211,7 +211,7 @@ body {
   color: #555555;
 }
 body.body-bg {
-  background-color: #ffffff;
+  background-color: #000;
   background-image: url("../img/body-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
