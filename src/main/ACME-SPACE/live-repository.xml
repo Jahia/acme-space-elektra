@@ -6679,16 +6679,6 @@
                       jcr:lastModifiedBy="bill"
                       jcr:primaryType="jnt:contentList"
                       jcr:uuid="17fd6460-d3a5-45e9-b0b9-738111a6bf5e">
-                    <space-knowledge-base j:lastPublished="2014-02-21T16:55:52.546+01:00"
-                                     j:lastPublishedBy="root"
-                                     j:originWS="default"
-                                     j:published="true"
-                                     jcr:created="2014-02-18T13:46:23.791+01:00"
-                                     jcr:createdBy="bill"
-                                     jcr:lastModified="2014-02-19T10:33:12.609+01:00"
-                                     jcr:lastModifiedBy="root"
-                                     jcr:primaryType="jnt:contentReference"
-                                     jcr:uuid="ebce70f5-ee19-44d0-bc72-c92d0fabc66b"/>
                     <space-knowledge-base-1 j:lastPublished="2014-02-21T16:55:52.546+01:00"
                                        j:lastPublishedBy="root"
                                        j:node="/sites/ACMESPACE/home/community/main/content-list/space-knowledge-base"
